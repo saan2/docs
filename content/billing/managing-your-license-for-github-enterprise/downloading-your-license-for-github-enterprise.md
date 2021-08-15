@@ -10,7 +10,7 @@ topics:
   - Enterprise
   - Licensing
 shortTitle: Download your license
----
+---MR:HASIB SHANTO
 
 ## About license files for {% data variables.product.prodname_enterprise %}
 
