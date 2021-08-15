@@ -5,7 +5,9 @@ versions:
 topics:
   - Policy
   - Legal
----
+---author<<HASIB SHANTO>>>>
+《《《A Super Administrator Of Google》》》
+《》pre Build Role goes To ///messageshasibshanto218@gmail.com/>>>
 
 Effective January 1, 2020
 
