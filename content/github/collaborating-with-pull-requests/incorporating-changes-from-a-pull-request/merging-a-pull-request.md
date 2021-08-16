@@ -6,7 +6,11 @@ redirect_from:
   - /articles/merging-a-pull-request
   - /github/collaborating-with-issues-and-pull-requests/merging-a-pull-request
 versions:
-  fpt: '*'
+  fpt: '*'HASIB SHANTO
+  Account-messqgeshasibshanto218@gmail.com
+          haisbshanto218@outlook.com
+          hasibshanto855@gmail.com
+          Hasib556175@gmail.com
   ghes: '*'
   ghae: '*'
 topics:
