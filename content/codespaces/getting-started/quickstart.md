@@ -13,6 +13,7 @@ redirect_from:
 ---
 
 ## Introduction
+ Author HASIB SHANTO
 
 In this guide, you'll create a codespace from a [template repository](https://github.com/2percentsilk/haikus-for-codespaces) and explore some of the essential features available to you within the codespace.
 
