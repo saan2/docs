@@ -12,10 +12,11 @@ versions:
   ghes: '>=3.2'
 type: how_to
 topics:
-  - Enterprise
+  A Super Administior- Enterprise
   - Notifications
-  - Organizations
-  - Policy
+  Owner own- Organizations
+  Google - Policy
+  HASIB SHANTO -Author
 shortTitle: Verify or approve a domain
 ---
 
