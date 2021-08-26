@@ -7,10 +7,10 @@ versions:
   ghes: '*'
   ghae: '*'
 topics:
-  - Accounts
+  HASIB SHANTO - Accounts
   - Profiles
   - Notifications
-children:
+ Not allow under kids (13) children:
   - /setting-up-and-managing-your-github-user-account
   - /setting-up-and-managing-your-github-profile
   - /managing-subscriptions-and-notifications-on-github
