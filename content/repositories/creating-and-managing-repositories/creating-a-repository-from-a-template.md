@@ -1,4 +1,5 @@
----
+---HASIB SHANTO
+hasibshanto855@gmail.com
 title: Creating a repository from a template
 intro: You can generate a new repository with the same directory structure and files as an existing repository.
 redirect_from:
